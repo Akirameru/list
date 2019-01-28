@@ -1,21 +1,23 @@
-<!--- https://akirameru.github.io/list-2/ -->
-**Hey dad heres a list of things that you can get Brandon and Yuuri. I spent some time and sat down with them and just asked what things they like and their hobbies and stuff. These are things I brainstormed.**
+<!--- https://akirameru.github.io/list/ -->
+**Hey dad heres a list for some stuff to do car cleaning :)**
 
-Brandon
-- [Super Smash Bros Ultimate $60](https://www.amazon.com/Super-Smash-Bros-Ultimate-Nintendo-Switch/dp/B01N5OKGLH?th=1)
-- Boots
-- Jackets
-- [Hoodies](https://www.nike.com/t/therma-mens-pullover-training-hoodie-tzPzH5/932022-010)
-- [Hoodies](https://www.nike.com/t/sportswear-club-fleece-mens-hoodie-ERTB0z1j/804346-653)
-- [This Shirt of his favorite character in a game](https://na.merch.riotgames.com/en/clothing/twisted-fate-tee-unisex.html)
-- [Best Key/wallet finder comes with phone app $25](https://www.amazon.com/Tile-Mate-Replaceable-Battery-pack/dp/B07GLY3HCS?ref_=w_bl_hsx_s_wi_web_11316243011)
+Cleaning headlights
+- [Polishing pads : $10](https://www.amazon.com/gp/product/B076ZJMHB1/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B076ZJMHB1&linkCode=as2&tag=legitstreetca-20&linkId=ae92e3257e5680ed445894276338439e%22%3ECar%20Foam%20Drill%20Polishing%20Pad%20Kit%2022%20PCS,%203%20Inch%20Buffing%20Pads%3C/a%3E%3Cimg%20src=)
+- [Meguiar's Polisher M105 - Buy in Store](https://www.amazon.com/Meguiars-Mirror-Glaze-Ultra-Cut-Compound/dp/B001O7PNW8)
+- [Meguiar's Polisher M205 - Buy in Store](https://www.amazon.com/Meguiars-Mirror-Glaze-Finishing-Polish/dp/B001O7PNXC)
+- [3M Automotive Masking Tape - Buy in Store](https://www.amazon.com/3M-03433-Automotive-Performance-Masking/dp/B004IJVYA4/ref=as_li_ss_tl?ie=UTF8&qid=1528130982&sr=8-5&keywords=3M+Automotive+Tape&linkCode=ll1&tag=milanmastra08-20&linkId=a058989891e6e86a9715afa00286566f)
+- P1500 Sanding Paper
+- P2000 Sanding Paper
+- P3000 Sanding Paper
+- [Spraymax 2k Glamour Clear Coat](https://www.amazon.com/SprayMax-Glamour-Gloss-Aerosol-Clear/dp/B0082LJMC6/ref=as_li_ss_tl?ie=UTF8&qid=1529256431&sr=8-2&keywords=2k+spray+paint&linkCode=sl1&tag=chri0e2-20&linkId=bc47040a416fed3b369c17f901c256a1)
 
-Yuuri
-- [Let's Go Pikachu $60](https://www.amazon.com/Pokemon-Lets-Go-Pikachu-Switch/dp/B01MT8AIBE/ref=pd_sim_63_3?_encoding=UTF8&pd_rd_i=B01MT8AIBE&pd_rd_r=0ae85484-fdc6-11e8-8b36-13666f87f6b1&pd_rd_w=AdQQi&pd_rd_wg=57dYG&pf_rd_p=18bb0b78-4200-49b9-ac91-f141d61a1780&pf_rd_r=XTKTYW9N0XN8XRKF2VJP&refRID=XTKTYW9N0XN8XRKF2VJP&th=1)
-- Huge Toblerone Chocolate Bar (Probably at Cracker Barrel or Target)
-- Any kind of socks
-- Wireless mouse
-- Levi Jeans
-- NASA shirts/hoodies/jackets
-- [Hoodie](https://www.adidas.com/us/cropped-hoodie/CY4766.html)
-- [Jacket](https://www.adidas.com/us/response-wind-jacket/CY5719.html)
+Car/Bike Cleaning for Pressure Washer
+- [Foam Cannon with 5 Extra Nozzles : $18](https://www.amazon.com/Twinkle-Star-Cannon-Connector-Pressure/dp/B0798NQTQS/ref=sr_1_7?ie=UTF8&qid=1548660144&sr=8-7&keywords=foam+cannon)
+- [Microfiber Wash Mit](https://www.amazon.com/MR-SIGA-Microfiber-Wash-Mitt-Yellow/dp/B01LEBR4H0/ref=pd_lpo_vtph_263_tr_img_2?_encoding=UTF8&psc=1&refRID=AXCE6V92QZ0998QRK73Z)
+- [Car Wax](https://www.amazon.com/gp/product/B000AP8DZY/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B000AP8DZY&linkCode=as2&tag=chri0e2-20&linkId=MS4HBBWOR43ALKUU)
+
+Removing Dents
+- [51 Tools/Pieces Full Dent Removal Kit : $83](https://www.amazon.com/Super-Restore-Paintless-Repair-Puller/dp/B013D9QOI6/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=kakavto00-20&linkId=fe2618926eddb245cb866a8516a5711b)
+
+Scanner to check car issues
+- [BAFX OBDII Reader - $26](https://www.amazon.com/BAFX-Products-Bluetooth-Diagnostic-Scanner/dp/B078K54MT5?th=1)
