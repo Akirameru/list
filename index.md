@@ -1,7 +1,5 @@
 <!--- https://akirameru.github.io/list/ -->
 **List**
-
-Cleaning headlights
 - [Leatt GPX 4.5 Lite Jacket : $190](https://www.revzilla.com/motorcycle/leatt-gpx-45-lite-jacket)
 - [REV'IT! GT-R Air 2 Jacket : $220](https://www.revzilla.com/motorcycle/revit-gt-r-air-2-jacket)
 - [REV'IT! Vertex Air Jacket : $200](https://www.revzilla.com/motorcycle/revit-vertex-air-jacket)
