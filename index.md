@@ -1,6 +1,8 @@
 <!--- https://akirameru.github.io/list/ -->
 **List**
 
+**[CLICK HERE AND VOTE FOR THE ONES YOU LIKE](https://forms.gle/NZj9Sr5mBPeQ2Wyv9)**
+
 [The Hero](https://breakoutkc.com/the-hero/)
 ```
 You are tasked with stopping an altruistic but delusional doctor who believes he can cure all of the world’s sickness.
