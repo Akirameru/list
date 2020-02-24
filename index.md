@@ -1,37 +1,38 @@
 <!--- https://akirameru.github.io/list/ -->
 **List**
 
-**[CLICK HERE AND VOTE FOR THE ONES YOU LIKE](https://forms.gle/NZj9Sr5mBPeQ2Wyv9)**
+[aaaa](https://www.amazon.com/Lenovo-Chromebook-MediaTek-Processor-81QB000AUS/dp/B07Z1KJ2D8/ref=sr_1_7?keywords=chromebook&qid=1580164999&s=electronics&sr=1-7&th=1&tag=laptopz18-20)
+```
+ttt
+```
 
-[The Hero](https://breakoutkc.com/the-hero/)
+[aaaaaa](https://www.amazon.com/Acer-Chromebook-Aluminum-14-inch-CB3-431-C5FM/dp/B01CVOLVPA/ref=sr_1_3?keywords=acer+chromebook+14&qid=1580165063&s=electronics&sr=1-3&tag=laptopz18-20)
 ```
-You are tasked with stopping an altruistic but delusional doctor who believes he can cure all of the world’s sickness.
-Unfortunately, though he is well-intentioned, his methods are unproven and faulty at best. It’s your duty to bring his operation to an end.
+ttt
 ```
-[Room 13](https://breakoutkc.com/room-13/)
+
+[aaaaa](https://www.amazon.com/C731-C118-Cel-11-6-32GB-Chrm/dp/B07LDRV83G/ref=sr_1_8?keywords=chromebook&qid=1580164999&s=electronics&sr=1-8&tag=laptopz18-20)
 ```
-You have no recollection of checking in. Mysteriously, you can’t leave.
-As panic sets in, the hotel’s cozy façade begins to crumble, and the sinister motive lurking behind your imprisonment is unmasked.
-Embedded in the cracks between past and present, voices guide you to freedom.
+ttt
 ```
-[Patient 57](https://breakoutkc.com/patient-57/)
+
+[aaaaa](https://www.amazon.com/Lenovo-Chromebook-Convertible-11-6-Inch-81HY0000US/dp/B07GM2J11Q/ref=sr_1_4?keywords=chromebook&qid=1580164999&s=electronics&sr=1-4&tag=laptopz18-20
+)
 ```
-For years you’ve been subject to illegal tests designed for one purpose: to perfect the art of mind control.
-But now, amidst an emergency evacuation, you have the opportunity to break free.  When the time comes…
-Will you be able to take fate into your own hands?
+ttt
 ```
-[Civil War](https://breakoutkc.com/civil-war/)
+
+[aaaaa](https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19L/dp/B07RF1XD36/ref=sr_1_4?keywords=acer+aspire+5&qid=1566951848&s=gateway&sr=8-4&tag=laptopz18-20)
 ```
-Captured and locked away in an enemy bunker, you and your fellow soldiers catch wind of a mutiny amongst your captors.
-Follow the unusual directive of a rebellious soldier… if you can trust him with your life.
+ttt
 ```
-[Undercover (hardest room)](https://breakoutkc.com/undercover/)
+
+[aaaaa](https://www.walmart.com/ip/Lenovo-Ideapad-330s-15-6-Laptop-Windows-10-AMD-Ryzen-5-2500U-Quad-Core-Processor-8GB-Memory-256GB-Storage-Platinum-Grey-81FB00HKUS/273186587?irgwc=1&sourceid=imp_3%3Ay0DZ1G%3AxyOU5PwUx0Mo3cmUknVtEwtw3Gcx80&veh=aff&wmlspartner=imp_1883484&clickid=3%3Ay0DZ1G%3AxyOU5PwUx0Mo3cmUknVtEwtw3Gcx80)
 ```
-There’s a mastermind behind a devious plan that, if successful, will unravel the financial fabric of our country as we know it.
-The FBI has tasked you with a covert mission to gather intel and identify the mastermind – before its too late!
+ttt
 ```
-[National Security](https://breakoutkc.com/national-security/)
+
+[aaaaa](https://www.amazon.com/ASUS-VivoBook-i3-8145U-Windows-F512FA-AB34/dp/B07RK5M35T/ref=sr_1_3?keywords=asus+vivobook+15&qid=1566953091&s=electronics&sr=1-3&tag=laptopz18-20)
 ```
-A trip to the Midwestern History Museum turns into a tense situation when the fate of one of the United States’ most prized documents falls into jeopardy.
-Can you find the missing piece of American history and secure the nation’s future before time runs out?
+ttt
 ```
