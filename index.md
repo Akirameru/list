@@ -39,11 +39,22 @@ Intel i5 11400F
 512GB SSD
 ```
 
-[ABS Master - $1,299](https://www.newegg.com/abs-ali548/p/N82E16883360168)
+[Lenovo Legion Tower 5i - $1,150](https://www.bestbuy.com/site/lenovo-legion-tower-5i-gaming-desktop-intel-core-i7-11700-16gb-memory-nvidia-geforce-gtx-1660-super-256gb-ssd-1tb-hdd-raven-black/6453878.p?skuId=6453878)
+```
+Name brand not a bad choice.
+
+Intel i7-11700
+16 GB of RAM
+GTX 1660 Super
+256GB SSD + 1TB HDD
+```
+
+[HP ENVY Desktop TE01 - $1,299](https://www.hp.com/us-en/shop/pdp/hp-envy-desktop-te01-2275xtbundle-pc)
 ```
 This one is a straight up spaceship.
 Has a next gen graphics card that is sold out everywhere.
 Better then anything 99% of people own.
+**THESE SELL OUT VERY FAST BUY NOW**
 
 Intel i5 10600K 
 16 GB of RAM
@@ -51,13 +62,3 @@ Intel i5 10600K
 512GB SSD
 ```
 
-[Lenovo Chromebook C330 2-in-1 - $260](https://www.amazon.com/Lenovo-Chromebook-Convertible-11-6-Inch-81HY0000US/dp/B07GM2J11Q/ref=sr_1_4?keywords=chromebook&qid=1580164999&s=electronics&sr=1-4&tag=laptopz18-20)
-```
-Lots of usability. You can fold the laptop and stuff. Same storage as your phone.
-
-MediaTek MT8173C 4-core ARM processor
-4 GB of RAM
-64 GB eMMC storage
-768p 11.6" display
-Battery life up to 10 hours according to Lenovo
-```
