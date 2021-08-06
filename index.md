@@ -1,51 +1,54 @@
 <!--- https://akirameru.github.io/list/ -->
-**This list is in order from price: Low to High. As you go further down the list the Desktops become better and better and more capable.**
+**This list is in order from price: Low to High. 
+As you go further down the list the Desktops become better and better and more capable.**
 
 
-[Lenovo Legion Tower 5i - $950 **This is available in Lawrence**](https://www.bestbuy.com/site/lenovo-legion-tower-5i-gaming-desktop-intel-core-i5-11400-8gb-memory-nvidia-geforce-gtx-1660-super-256gb-ssd-1tb-hdd-raven-black/6453877.p?skuId=6453877)
+[Lenovo Legion Tower 5i - $950 
+**This is available in Lawrence**](https://www.bestbuy.com/site/lenovo-legion-tower-5i-gaming-desktop-intel-core-i5-11400-8gb-memory-nvidia-geforce-gtx-1660-super-256gb-ssd-1tb-hdd-raven-black/6453877.p?skuId=6453877)
 ```
 Same price as the other desktop you guys bought. This one has the same graphics card.
 The CPU is just a smidge better then the other one.
-Biggest issue on this one is that it only has 8GB of ram. 16GB is recommended. Anything more then 16GB actually does nothing to help performance.
+Biggest issue on this one is that it only has 8GB of ram. 16GB is recommended.
+Anything more then 16GB actually does nothing to help performance.
 
-Intel Core i5-11400
+Intel i5-11400
 8 GB of RAM
-NVIDIA GeForce GTX 1660 Super
+GTX 1660 Super
 256GB SSD + 1TB HDD
 ```
 
-[Acer Chromebook 11 - $150](https://www.amazon.com/C731-C118-Cel-11-6-32GB-Chrm/dp/B07LDRV83G/ref=sr_1_8?keywords=chromebook&qid=1580164999&s=electronics&sr=1-8&tag=laptopz18-20)
+[ABS Challenger - $999](https://www.newegg.com/abs-ali491/p/N82E16883360086?quicklink=true)
 ```
-Better then the Lenovo. Not bad but not great. Less storage then your phone.
+Same as the Lenovo just has more RAM. Should perform a little better.
 
-Intel Celeron N3060 2-core processor
-4 GB of RAM
-32 GB eMMC storage
-768p 11.6" display
-Battery life up to 10 hours according to Acer
-```
-
-[Acer Chromebook 14 - $190](https://www.amazon.com/Acer-Chromebook-Aluminum-14-inch-CB3-431-C5FM/dp/B01CVOLVPA/ref=sr_1_3?keywords=acer+chromebook+14&qid=1580165063&s=electronics&sr=1-3&tag=laptopz18-20)
-```
-Pretty good. Does what you'd need and the price isn't too steep. Same as Chromebook 11 but better/bigger display and faster processing. Less storage then your phone.
-
-Intel Celeron N3160 4-core processor
-4 GB of RAM
-32 GB eMMC storage
-1080p 14" display
-Battery life up to 12 hours according to Acer
+Intel i5 10400F
+16 GB of RAM
+GTX 1660 Super
+512GB SSD
 ```
 
-[Motile 14 - $250](https://www.walmart.com/ip/Vega-HDMI-Front-RAM-Rose-FHD-4GB-display-AMD-128GB-Tuned-Camera-Radeon-14-Ryzen-Gold-720P-THX-Graphics-IR-SSD-Laptop-3-MOTILE-Spatial-Performance-Aud/708573214?irgwc=1&sourceid=imp_3%3Ay0DZ1G%3AxyOU5PwUx0Mo3cmUknVtDwRw3Gcx80&veh=aff&wmlspartner=imp_1883484&clickid=3%3Ay0DZ1G%3AxyOU5PwUx0Mo3cmUknVtDwRw3Gcx80)
+[ABS Master - $1,099](https://www.newegg.com/abs-ali524/p/N82E16883360129)
 ```
-New brand released by Walmart for 2020. Best bang for the buck in terms of performance and stuff but it's a Walmart brand. Lots of storage space!
+For the price this is probably the best thing you can get.
+The graphics card is really good and will be able to run anything. 
+Really fast CPU as well.
 
-Ryzen 3 3200U 2-core processor
-4 GB RAM
-128 GB SSD storage
-1080p 14" display
-Battery life around 7.5 hours for light use
-Backlit keyboard
+Intel i5 11400F
+16 GB of RAM
+**RTX 2060**
+512GB SSD
+```
+
+[ABS Master - $1,299](https://www.newegg.com/abs-ali548/p/N82E16883360168)
+```
+This one is a straight up spaceship.
+Has a next gen graphics card that is sold out everywhere.
+Better then anything 99% of people own.
+
+Intel i5 10600K 
+16 GB of RAM
+**RTX 3060**
+512GB SSD
 ```
 
 [Lenovo Chromebook C330 2-in-1 - $260](https://www.amazon.com/Lenovo-Chromebook-Convertible-11-6-Inch-81HY0000US/dp/B07GM2J11Q/ref=sr_1_4?keywords=chromebook&qid=1580164999&s=electronics&sr=1-4&tag=laptopz18-20)
@@ -57,37 +60,4 @@ MediaTek MT8173C 4-core ARM processor
 64 GB eMMC storage
 768p 11.6" display
 Battery life up to 10 hours according to Lenovo
-```
-
-[Acer Aspire 5 - $320](https://www.amazon.com/Acer-Display-Graphics-Keyboard-A515-43-R19L/dp/B07RF1XD36/ref=sr_1_4?keywords=acer+aspire+5&qid=1566951848&s=gateway&sr=8-4&tag=laptopz18-20)
-```
-Really good display. Really good performance. Really good laptop! Won't feel slow. Lots of storage space!
-
-Ryzen 3 3200U 2-core processor
-4 GB of RAM
-128 GB SSD storage
-1080p 15.6" IPS display
-Battery life up to 7.5 hours according to Acer
-```
-
-[Lenovo Ideapad 330s - $360](https://www.walmart.com/ip/Lenovo-Ideapad-330s-15-6-Laptop-Windows-10-AMD-Ryzen-5-2500U-Quad-Core-Processor-8GB-Memory-256GB-Storage-Platinum-Grey-81FB00HKUS/273186587?irgwc=1&sourceid=imp_3%3Ay0DZ1G%3AxyOU5PwUx0Mo3cmUknVtEwtw3Gcx80&veh=aff&wmlspartner=imp_1883484&clickid=3%3Ay0DZ1G%3AxyOU5PwUx0Mo3cmUknVtEwtw3Gcx80)
-```
-Really really good performance for the price. Really good screen. Won't feel slow. Lots of storage space!
-
-Ryzen 5 2500U 4-core processor
-8 GB RAM
-256 GB SSD storage
-1080p 15.6" display
-Battery life around 4 hours for light use
-```
-
-[ASUS VivoBook 15 - $380](https://www.amazon.com/ASUS-VivoBook-i3-8145U-Windows-F512FA-AB34/dp/B07RK5M35T/ref=sr_1_3?keywords=asus+vivobook+15&qid=1566953091&s=electronics&sr=1-3&tag=laptopz18-20)
-```
-Better processing speed then the Lenovo but less storage. Really good deal tho. Won't feel slow.
-
-i3-8145U 2-core processor
-8 GB of RAM
-128 GB SSD storage
-1080p 15.6" display
-Battery life around 4-5 hours for light use
 ```
