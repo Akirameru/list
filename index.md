@@ -1,9 +1,9 @@
 <!--- https://akirameru.github.io/list/ -->
-**This list is in order from price: Low to High. 
+**This list is in order from price: Low to High.   
 As you go further down the list the Desktops become better and better and more capable.**
 
 
-[Lenovo Legion Tower 5i - $950](https://www.bestbuy.com/site/lenovo-legion-tower-5i-gaming-desktop-intel-core-i5-11400-8gb-memory-nvidia-geforce-gtx-1660-super-256gb-ssd-1tb-hdd-raven-black/6453877.p?skuId=6453877)
+[Lenovo Legion Tower 5i - $950](https://www.bestbuy.com/site/lenovo-legion-tower-5i-gaming-desktop-intel-core-i5-11400-8gb-memory-nvidia-geforce-gtx-1660-super-256gb-ssd-1tb-hdd-raven-black/6453877.p?skuId=6453877)  
 **This is available in Lawrence**
 ```
 Same price as the other desktop you guys bought. This one has the same graphics card.
@@ -49,7 +49,7 @@ GTX 1660 Super
 256GB SSD + 1TB HDD
 ```
 
-[HP ENVY Desktop TE01 - $1,299](https://www.hp.com/us-en/shop/pdp/hp-envy-desktop-te01-2275xtbundle-pc)
+[HP ENVY Desktop TE01 - $1,299](https://www.hp.com/us-en/shop/pdp/hp-envy-desktop-te01-2275xtbundle-pc)  
 **THESE SELL OUT VERY FAST BUY NOW**
 ```
 This one is a straight up spaceship.
