@@ -3,8 +3,8 @@
 As you go further down the list the Desktops become better and better and more capable.**
 
 
-[Lenovo Legion Tower 5i - $950 
-**This is available in Lawrence**](https://www.bestbuy.com/site/lenovo-legion-tower-5i-gaming-desktop-intel-core-i5-11400-8gb-memory-nvidia-geforce-gtx-1660-super-256gb-ssd-1tb-hdd-raven-black/6453877.p?skuId=6453877)
+[Lenovo Legion Tower 5i - $950](https://www.bestbuy.com/site/lenovo-legion-tower-5i-gaming-desktop-intel-core-i5-11400-8gb-memory-nvidia-geforce-gtx-1660-super-256gb-ssd-1tb-hdd-raven-black/6453877.p?skuId=6453877)
+**This is available in Lawrence**
 ```
 Same price as the other desktop you guys bought. This one has the same graphics card.
 The CPU is just a smidge better then the other one.
@@ -50,11 +50,11 @@ GTX 1660 Super
 ```
 
 [HP ENVY Desktop TE01 - $1,299](https://www.hp.com/us-en/shop/pdp/hp-envy-desktop-te01-2275xtbundle-pc)
+**THESE SELL OUT VERY FAST BUY NOW**
 ```
 This one is a straight up spaceship.
 Has a next gen graphics card that is sold out everywhere.
 Better then anything 99% of people own.
-**THESE SELL OUT VERY FAST BUY NOW**
 
 Intel i5 10600K 
 16 GB of RAM
