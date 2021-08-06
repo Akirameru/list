@@ -1,15 +1,17 @@
 <!--- https://akirameru.github.io/list/ -->
-**List**
+**This list is in order from price: Low to High. As you go further down the list the Desktops become better and better and more capable.**
 
-[Lenovo 100E Chromebook - $125](https://www.amazon.com/Lenovo-Chromebook-MediaTek-Processor-81QB000AUS/dp/B07Z1KJ2D8/ref=sr_1_7?keywords=chromebook&qid=1580164999&s=electronics&sr=1-7&th=1&tag=laptopz18-20)
+
+[Lenovo Legion Tower 5i - $950 **This is available in Lawrence**](https://www.bestbuy.com/site/lenovo-legion-tower-5i-gaming-desktop-intel-core-i5-11400-8gb-memory-nvidia-geforce-gtx-1660-super-256gb-ssd-1tb-hdd-raven-black/6453877.p?skuId=6453877)
 ```
-Cheapest. Just enough to use internet and watch shows and stuff. Won't be able to do a whole lot. Less storage then your phone.
+Same price as the other desktop you guys bought. This one has the same graphics card.
+The CPU is just a smidge better then the other one.
+Biggest issue on this one is that it only has 8GB of ram. 16GB is recommended. Anything more then 16GB actually does nothing to help performance.
 
-MediaTek MT8173C 4-core ARM processor
-4 GB of RAM
-16 GB eMMC storage
-768p 11.6" display
-Battery life up to 10 hours according to Lenovo
+Intel Core i5-11400
+8 GB of RAM
+NVIDIA GeForce GTX 1660 Super
+256GB SSD + 1TB HDD
 ```
 
 [Acer Chromebook 11 - $150](https://www.amazon.com/C731-C118-Cel-11-6-32GB-Chrm/dp/B07LDRV83G/ref=sr_1_8?keywords=chromebook&qid=1580164999&s=electronics&sr=1-8&tag=laptopz18-20)
