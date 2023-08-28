@@ -11,16 +11,16 @@ Shorts
 Shirts   
 
 <a href="https://www.bestbuy.com/site/kicker-cs-series-6-1-2-2-way-car-speakers-with-polypropylene-cones-pair-yellow-black/6333353.p?skuId=6333353">  
-$40 - Just 1 set of these, these replace the rear
+$40 - This comes in a pair/set so purchase 1 order of these, these replace the REAR
 
 <a href="https://www.bestbuy.com/site/kicker-ps-4-coaxial-speakers-pair-black-silver/4222515.p?skuId=4222515">  
-$82 - Just 1 set of these, these replace the front
+$82 - This comes in a pair/set so purchase 1 order of these, these replace the FRONT
 
 <a href="https://www.amazon.com/DEBROO-Kicktail-Longboard-Skateboard-Complete/dp/B09FJPH2BW?ref_=ast_sto_dp&th=1&psc=1">  
 $50 - Longboard skateboard for filming, this would be nice and handy!
   
 <a href="https://www.amazon.com/Freewell-Magnetic-System-Camera-Filter/dp/B08MTNQ51J?ref_=ast_sto_dp&th=1">  
-$100 - Lens Filter for photos
+$100 - Lens Filter for photos, this makes the glowy effect for lighting
 
 <a href="https://www.epr-int.com/93-98-supra-mk4-jza80-tr-style-rear-spoiler-portion-carbon-usa-warehouse">  
 $449 - Supra TRD Wing
@@ -29,17 +29,7 @@ $449 - Supra TRD Wing
 $44 - RED Dress up bolts, for engine cover
 
 <a href="https://dressupbolts.com/collections/hardware-kits/products/toyota-supra-1993-2002-mkiv-jza80-2jz-gte-titanium-bolt-kit?variant=980440664">  
-$231 - Engine Bay RED
+$231 - Engine Bay, RED
 
 <a href="https://www.titanium-works.com/products/titanium-works-mkiv-supra-cover-oil-cap?variant=42488107106479">  
 $265 - V1, Red, Engraved
-
-
-
-
-
-<a href="
-
-<a href="
-
-<a href="
